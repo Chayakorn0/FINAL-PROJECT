@@ -449,7 +449,7 @@ body{
 
 .badge{
     max-width: max-content;
-    background-color: var(--hoockers-green);
+    background-color: red;
     color: var(--white);
     font-weight: var(--fw-700);
     padding-inline: 12px;
@@ -752,7 +752,7 @@ footer{
 }
 
 .socialIcons a:hover{
-    background-color: #111;
+    background-color: var(--hoockers-green);
     transition: 0.5s;
 }
 
